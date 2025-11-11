@@ -1,7 +1,9 @@
 # Parte 4: Respostas Teóricas - Escolha de Algoritmos
 
 **Aluno:** Anderson Correa
+
 **Disciplina:** Algoritmos de Clusterização
+
 **Instituição:** INFNET
 
 ---
