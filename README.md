@@ -1,7 +1,9 @@
-# Análise de Clusterização em Dados de Desenvolvimento de Países
+# 25E4-2
 
 **Aluno:** Anderson Correa
+
 **Disciplina:** Algoritmos de Clusterização
+
 **Instituição:** INFNET
 
 ## Visão Geral do Projeto
@@ -19,8 +21,8 @@ Este projeto realiza análise de clusterização em dados socioeconômicos e de 
 
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # No macOS/Linux
-# venv\Scripts\activate   # No Windows
+source venv/bin/activate  # macOS/Linux
+# venv\Scripts\activate   # Windows
 ```
 
 ### 2. Instalar dependências
@@ -38,14 +40,14 @@ jupyter notebook projeto_25E4_2.ipynb
 ## Estrutura do Projeto
 
 ```
-delivery/
+/
 ├── venv/                               # Ambiente virtual
-├── projeto_25E4_2.ipynb               # Notebook de análise principal
+├── projeto_25E4_2.ipynb                # Notebook principal
 ├── Country-data.csv                    # Dataset
 ├── data-dictionary.csv                 # Dicionário de dados
-├── requirements.txt                    # Dependências Python
-├── respostas_teoricas.md               # respostas às perguntas teóricas
-└── README.md                           # Este arquivo
+├── requirements.txt                    # Dependências
+├── respostas_teoricas.md               # Respostas às perguntas teóricas
+└── README.md
 ```
 
 ## Etapas da Análise
